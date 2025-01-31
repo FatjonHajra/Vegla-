@@ -1,1 +1,1 @@
-# Vegla-https://github.com/FatjonHajra/Vegla-
+# Vegla-
