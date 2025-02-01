@@ -10,7 +10,7 @@ int main()
 
     for (int i = 0; i < 5; i++)
     {
-        cout << "Shenoni rezultatin F, B, H: ";
+        cout << "Shenoni rezultatin "<< 1+i<<": F, B, H: ";
         cin >> rez;
 
         switch (rez)
