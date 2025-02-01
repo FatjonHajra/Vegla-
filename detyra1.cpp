@@ -34,3 +34,4 @@ int main()
     cout << "Piket per ndeshje: " << (float)totaliPikeve / 5 << endl;
 
     return 0;
+}
